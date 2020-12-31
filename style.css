@@ -1,0 +1,39 @@
+.header{
+    align-items: center;
+    display: flex;
+}
+.one{
+    padding-left: 267px;
+    display: flex;
+    align-items: center;
+    margin-left: 13px;
+    
+}
+.one1{
+    
+}
+.a{
+    float:right;
+    margin-left: 13px;
+    color: #035755;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;  
+    
+
+    
+}
+.tabl2{
+    margin-left: 900px;
+    align-items: center;
+    display: flex;
+
+}
+.current-1{
+
+
+}
+.current-2{
+
+
+}
